@@ -15,8 +15,10 @@ class Footer extends Component {
      <div className="row" >
         <div className="twelve columns">
            <ul className="social-links">
-              {networks}
-           </ul>
+           <li><a href="https://www.linkedin.com/in/hunghan-chen-70710b8b/"><i className="fa fa-linkedin"></i></a></li>
+                  <li><a href="https://github.com/hunghanchen?tab=repositories"><i className="fa fa-github"></i></a></li>
+                  <li><a href="mailto:chenhung@sheridancollege.ca"><i className="fa fa-envelope"></i></a></li>
+                  <li><a href="/Hung-Han Chen - Resume.pdf"><i className="fa fa-download"></i></a></li>           </ul>
 
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>

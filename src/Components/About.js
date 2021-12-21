@@ -29,8 +29,8 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-                     <span>{email}</span>
+						   <span>Hung-Han Chen</span><br />
+                     <span>nancy410815@hotmail.com</span>
 					   </p>
                </div>
                <div className="columns download">
