@@ -19,6 +19,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "angular-cli-ghpages": "^1.0.0",
     "gh-pages": "^3.2.3"
   }
 }
