@@ -71,6 +71,23 @@ class Resume extends Component {
                 <li>Involved in Agile/SCRUM process, participate daily meeting and work on tasks in sprints</li>
               </ui>
             </div>
+            <div style={{ marginBottom: 50 }}>
+              <h3>Yung-Ching Realty Group</h3>
+              <p className="info">Realtor&emsp;<span><i className="fa fa-clock-o"></i></span> <em className="date">May 2015 - Apr 2018</em></p>
+              <ui>
+                <li>Analyzed market trends, according to the history of transactions, banking interest rate,
+                  and regulations to accurately advise clients and generate the professional proposal</li>
+                <li>Obtained the latest house nearby sold price to give advice to clients to determine the
+                  ideal price</li>
+                <li>Helped clients to understand what kinds of properties they are seeking</li>
+                <li>Collected properties on the market around the area, house marketing magazine, government
+                  regulations, and relative information to up to date knowledge of real estate market</li>
+                <li>Proposed to client’s market circumstance, price trending, rate of the mortgage, and
+                  legal regulations</li>
+                <li>Arranged between buyer and seller when the final price needs to be negotiated and
+                  introduce details of housing buying and selling transactions </li>
+              </ui>
+            </div>
           </div>
         </div>
         <hr></hr>
@@ -89,17 +106,17 @@ class Resume extends Component {
                   <h3>Sheridan Institute of Technology and Advanced Learning</h3>
                   <p className="info">Advanced Diploma &emsp; <span><i className="fa fa-bookmark"></i></span><em className="date">2018 - 2021</em></p>
                   <ul>
-                  <li>• Graduated with a strong academic standing GPA of 3.8/4.0</li>
-                  <li>• Sheridan Student Union/ International Student Community</li>
-                  <li>• Obtained 3 terms of internship as a Developer at TD Bank, CIBC, and RBC</li>
+                    <li>• Graduated with a strong academic standing GPA of 3.8/4.0</li>
+                    <li>• Sheridan Student Union/ International Student Community</li>
+                    <li>• Obtained 3 terms of internship as a Developer at TD Bank, CIBC, and RBC</li>
                   </ul>
                 </div>
                 <div style={{ marginBottom: 50 }}>
                   <h3>National Taipei University of Business</h3>
                   <p className="info">Bachelor of Department of International Business &emsp; <span><i className="fa fa-bookmark"></i></span><em className="date">2009 - 2013</em></p>
                   <ul>
-                  <li>• International trade expertise, finance expertise, management expertise and ethics, innovation and integration ability</li>
-                  <li>• Internship in department of insurance at Fubon bank for four months and passed Personal insurance representative exam to obtained certificate</li>
+                    <li>• International trade expertise, finance expertise, management expertise and ethics, innovation and integration ability</li>
+                    <li>• Internship in department of insurance at Fubon bank for four months and passed Personal insurance representative exam to obtained certificate</li>
                   </ul>
                 </div>
               </div>

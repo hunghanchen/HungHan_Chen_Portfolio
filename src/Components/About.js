@@ -13,7 +13,7 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src="/myPhoto.PNG" alt="Hung-Han Profile Pic" />
+            <img className="profile-pic"  src="https://github.com/hunghanchen/HungHan_Chen_Portfolio/blob/master/src/Components/myPhoto.PNG" alt="Hung-Han Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
@@ -35,7 +35,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href="/Hung-Han Chen - Resume.pdf" className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href="https://drive.google.com/file/d/1319ctMOiyQAMVY0KBTEeHUdIo_f8DlJ5/view?usp=sharing" className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
             </div>
